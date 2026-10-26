@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Generate x values from -10 to 10
 x = np.linspace(-10, 10, 400)
 
-# Calculate corresponding y values for the parabola y = x^2
+# Calculate corresponding y values for a simple parabola y = x^2
 y = x**2
 
 # Create the plot
